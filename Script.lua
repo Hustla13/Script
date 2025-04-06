@@ -1,2 +1,2 @@
 local player = game.Players
-players.LocalPlayer.Character.Humanoid.WalkSpeed = 100
+player.LocalPlayer.Character.Humanoid.WalkSpeed = 100
