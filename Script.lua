@@ -1,2 +1,2 @@
 local players = game:GetService("Players")
-players.LocalPlayer.speed = 100
+players.LocalPlayer.Character.Humanoid = 100
